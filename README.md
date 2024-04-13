@@ -14,7 +14,7 @@
 # Local Party
 A website where you can create rooms and chat while watching local video files synchronized with your friends.
 
-<img src="https://imgur.com/bcdrBr4.png"/><br>
+
 
 ## Features
 
@@ -43,7 +43,7 @@ A website where you can create rooms and chat while watching local video files s
 [![Local Party Demo](https://img.youtube.com/vi/Tw1BuJPapg4/hqdefault.jpg)](https://youtu.be/Tw1BuJPapg4)
 
 ## Media
-An album of screenshots of the website can be found [here](https://imgur.com/a/wzKc2g7).
+An album of screenshots of the website can be found [here].
 
 ## Contributing
 
