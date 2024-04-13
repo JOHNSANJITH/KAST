@@ -36,8 +36,6 @@ A website where you can create rooms and chat while watching local video files s
 
 6) You can leave the party by clicking on the leave icon in the top left of the chat section of the room page.
 
-## Video
-
 
 ## Media
 An album of screenshots of the website can be found [here].
