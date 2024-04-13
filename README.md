@@ -6,10 +6,9 @@
 1. [KAST](#KAST)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
-4. [Video](#video)
-5. [Media](#media)
-6. [Contributing](#contributing)
-7. [Backend API](#backend-api)
+4. [Media](#media)
+5. [Contributing](#contributing)
+6. [Backend API](#backend-api)
 
 # Local Party
 A website where you can create rooms and chat while watching local video files synchronized with your friends.
