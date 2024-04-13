@@ -3,7 +3,7 @@
 <h1 align='center'> Local Party </h1>
 # Table of Contents
 
-1. [Local Party](#local-party)
+1. [KAST](#KAST)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
 4. [Video](#video)
@@ -26,7 +26,7 @@ A website where you can create rooms and chat while watching local video files s
 
 ## Getting Started
 
-1) Go to [https://localparty.netlify.app/](https://localparty.netlify.app)
+1) Go to [https://KAST.netlify.app/](https://KAST.netlify.app)
 
 2) To create a room, click on the create room button and enter the name you want to chat with, the room's name and select the video file. 
 
@@ -52,7 +52,7 @@ An album of screenshots of the website can be found [here](https://imgur.com/a/w
 
     ``` 
     git clone https://github.com/JOHNSANJITH/KAST.git
-    cd local-party
+    cd KAST
     ```
 3) Next, set up the project by installing dependencies. Ensure you have Node.js and npm installed on your machine.
 If you haven't installed Node.js yet, you can download it from the [official website](https://nodejs.org/en).
@@ -63,7 +63,7 @@ If you haven't installed Node.js yet, you can download it from the [official web
 4)  Similarly, clone the repository of the API to your local machine using the git clone command. Navigate to the project directory.
     ```
     git clone https://github.com/JOHNSANJITH/KAST.git
-    cd local-party-api
+    cd KAST-api
     ```
 5) To view the project locally and make changes, you can open a live server.
 
