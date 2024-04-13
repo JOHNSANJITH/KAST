@@ -22,7 +22,6 @@ A website where you can create rooms and chat while watching local video files s
 - Watch videos in sync with your friends.
 - Chat with your friends while watching videos.
 
-## <img src="https://imgur.com/z5Qsm06.png"/>
 
 ## Getting Started
 
@@ -40,7 +39,6 @@ A website where you can create rooms and chat while watching local video files s
 
 ## Video
 
-[![Local Party Demo](https://img.youtube.com/vi/Tw1BuJPapg4/hqdefault.jpg)](https://youtu.be/Tw1BuJPapg4)
 
 ## Media
 An album of screenshots of the website can be found [here].
