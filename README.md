@@ -10,7 +10,7 @@
 5. [Contributing](#contributing)
 6. [Backend API](#backend-api)
 
-# Local Party
+# KAST
 A website where you can create rooms and chat while watching local video files synchronized with your friends.
 
 
@@ -38,7 +38,7 @@ A website where you can create rooms and chat while watching local video files s
 
 
 ## Media
-An album of screenshots of the website can be found [here].
+Any local media files can be uploaded and viewed 
 
 ## Contributing
 
