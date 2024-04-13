@@ -9,7 +9,7 @@
 4. [Video](#video)
 5. [Media](#media)
 6. [Contributing](#contributing)
-   - [Backend API](#backend-api)
+7. [Backend API](#backend-api)
 
 # Local Party
 A website where you can create rooms and chat while watching local video files synchronized with your friends.
