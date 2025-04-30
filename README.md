@@ -9,6 +9,7 @@ Table of Contents
 4. [Media](#media)
 5. [Contributing](#contributing)
 6. [Backend API](#backend-api)
+   
 
 # KAST
 A website where you can create rooms and chat while watching local video files synchronized with your friends.
