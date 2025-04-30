@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
-<h1 align='center'> Local Party </h1>
-# Table of Contents
+<h1 align='center'> KAST </h1>
+## Table of Contents
 
 1. [KAST](#KAST)
 2. [Features](#features)
